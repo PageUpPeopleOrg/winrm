@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/masterzen/winrm/soap"
+	"github.com/PageUpPeopleOrg/winrm/soap"
 
 	. "gopkg.in/check.v1"
 )

@@ -24,7 +24,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/masterzen/winrm/winrm"
+	"github.com/PageUpPeopleOrg/winrm/winrm"
 )
 
 func main() {
